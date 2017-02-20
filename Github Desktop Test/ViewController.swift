@@ -12,12 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         
         println("I am version 1")
         println("I am version 2")
-        println("I am version 3")
         
+<<<<<<< HEAD
 
         println("I am version 3.1")
         println("I am version 3.2")
@@ -26,6 +25,8 @@ class ViewController: UIViewController {
 
 
 
+=======
+>>>>>>> parent of 99189ab... add 3
     }
 
     override func didReceiveMemoryWarning() {
