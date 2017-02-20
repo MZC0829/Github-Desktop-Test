@@ -10,9 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        println("I am version 1")
+        println("I am version 1.1")
+        
     }
 
     override func didReceiveMemoryWarning() {
