@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         println("I am version 1")
-        println("I am version 1.1")
+        println("I am version 2")
         
     }
 
